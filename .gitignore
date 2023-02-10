@@ -1,0 +1,9 @@
+*.user
+*.filters
+*.vcxproj
+*.txt
+*.pdf
+*.zip
+enwik9
+x64
+/caglary corpus
